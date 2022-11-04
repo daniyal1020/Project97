@@ -1,0 +1,64 @@
+body{
+    background-image: linear-gradient(rgba(0, 255, 221, 0.548), rgb(0, 0, 255), rgba(0, 255, 221, 0.548));
+}
+#app_name{
+    color: rgb(0, 162, 255);
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 50px;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    margin-left: 20px;
+}
+hr{
+    color: black;
+}
+#book_1{
+    padding-left: 50px;
+    height: 300px;
+}
+#text1{
+    padding-left: 60px;
+    font-size: 50px;
+    color: rgb(238, 255, 0);
+}
+#book_2{
+    padding-left: 30px;
+    height: 300px;
+}
+#text2{
+    padding-left: 60px;
+    font-size: 50px;
+    color: rgb(238, 255, 0);
+}
+
+#book_4{
+    padding-left: 50px;
+    height: 300px;
+}
+#text4{
+    padding-left: 60px;
+    font-size: 50px;
+    color: rgb(238, 255, 0);
+}
+#book_5{
+    padding-left: 50px;
+    height: 300px;
+}
+#text5{
+    padding-left: 60px;
+    font-size: 50px;
+    color: rgb(238, 255, 0);
+}
+#book_6{
+    padding-left: 50px;
+    height: 300px;
+}
+#text6{
+    padding-left: 60px;
+    font-size: 50px;
+    color: rgb(238, 255, 0);
+}
